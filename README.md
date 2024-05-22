@@ -42,7 +42,7 @@ and with middlewares i redirct guests to welcome pages
         Create CRUD system.
         Using yield-section blade approach.
         Create middleware.
-        Using fake data for testing.
+        Seeding with fake data for testing.
     ```
 
   <!-- get start and how to run with the prerequisites mintion -->
