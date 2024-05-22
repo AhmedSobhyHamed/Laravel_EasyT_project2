@@ -33,17 +33,17 @@ and with middlewares i redirct guests to welcome pages
 
 ## Features
 
-    ```diff
-        Using MVC architecture.
-        Using Laravel Authentication system.
-        Validating users data.
-        Using ORM Laravel eloquent models.
-        Create resourceful controller.
-        Create CRUD system.
-        Using yield-section blade approach.
-        Create middleware.
-        Seeding with fake data for testing.
-    ```
+```diff
+    Using MVC architecture.
+    Using Laravel Authentication system.
+    Validating users data.
+    Using ORM Laravel eloquent models.
+    Create resourceful controller.
+    Create CRUD system.
+    Using yield-section blade approach.
+    Create middleware.
+    Seeding with fake data for testing.
+```
 
   <!-- get start and how to run with the prerequisites mintion -->
 
